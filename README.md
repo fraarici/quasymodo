@@ -1,2 +1,2 @@
 # quasymodo
-Quantum Symmetric Domains 
+QUAntum SYMmmetric DOmains 
