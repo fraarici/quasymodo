@@ -1,2 +1,2 @@
-# quasymodo
+# QUASYMoDO
 QUAntum SYMmmetric DOmains 
